@@ -1,2 +1,2 @@
 # language-text-translation-ai
-An AI web app that translates language texts from one language to another 
+An Artificial Intelligence web app that translates language texts from one language to another. 
